@@ -6,11 +6,7 @@ For decades, the concept of wave-particle duality has been widely accepted as a 
 
 ## The Flawed Assumption
 
-To understand why wave-particle duality is a myth, let's examine the original Double-Slit experiment. The researchers assumed that electrons would behave like waves when not directly observed. However, this assumption was incorrect from the start. As we've established, electrons consistently follow the path of least resistance unless an external force intervenes.
-
-## The Experimental Evidence
-
-The Double-Slit experiment itself provides conclusive evidence against wave-particle duality. Electrons do not exhibit wave-like behavior; instead, they follow the path of least resistance. This is exactly what we would expect to see based on every example we have seen, unlike the way the researches described, what they described is what we would expect if we were observing macroscopic objects, such as bullets or bowling balls, moving.
+To understand why wave-particle duality is a myth, let's examine the original Double-Slit experiment. The researchers assumed that electrons would behave normal objects (bullets, bowling balls, etc). However, this assumption was incorrect from the start. As we've can see from every example of electrons moving in open air we have, electrons consistently follow the path of least resistance unless an external force is applied. Since this fact is true from the low current flow of the output from a Tesla coil to the massive current flow in a lighting bolt, they behave the same no matter the scale.
 
 ## Forced Electron Behavior
 
@@ -20,16 +16,12 @@ We know how to build machines that force electrons to move as was expected by th
 
 If we examine the circuit used in the experiment, we see that it's a simple Spark Gap circuit, in which we have many examples of electron movement and not a single one of them shows the electron movement as expected by the researchers. Instead, every example shows the electrons following the path of least resistance.
 
-## Electron Movement at All Scales
-
-The behavior we observe of electron movement in open air without any external force being applied is consistent across all scales. Whether it's the very low current bolts observed from a Tesla coil or the very high current in the lighting bolts of a thunderstorm, the electrons follow the path of least resistance in every case.
-
 ## The Consequences
-The implications of our findings are significant. Wave-particle duality is not a fundamental aspect of quantum mechanics; instead, it's a product of an incorrect assumption about electron behavior. This realization has far-reaching consequences for our understanding of the natural world and the development of theories in physics.<br/>
+The implications of these facts are significant. Wave-particle duality is not a fundamental aspect of quantum mechanics; instead, it's a product of an incorrect assumption about electron behavior. This realization has far-reaching consequences for our understanding of the natural world and the development of theories in physics as we must re-evaluate anything derived from this experiment.<br/>
 
 ## Conclusion:
 In conclusion, it is obvious that electrons never exhibit wave-like behavior. They always behave as particles, following the path of least resistance unless forced to do otherwise by an external force. The concept of wave-particle duality is not supported by the original Double-Slit experiment and relies on an incorrect assumption about electron behavior.<br/> 
-By examining the truths pointed out in this document and considering the assumptions made by the researchers, we can see that wave-particle duality is not a accurate representation of electron behavior. Instead, electrons consistently follow the path of least resistance unless an external force intervenes.<br/>
+By examining the truths pointed out in this document and considering the assumptions made by the researchers, we can see that wave-particle duality is not a accurate representation of electron behavior. Instead, electrons consistently follow the path of least resistance unless an external force intervenes. If the researchers had made the correct assumptions, they would in fact have expected the exact results they got, so they would never had the thought of the wave-particle duality theory to begin with. It can't be correct, there is no magic.<br/>
 As we move forward in our understanding of the natural world, it's essential to acknowledge these findings and re-evaluate the theories built upon them.<br/>
 It is improtant that we stick to the basics when re-evaluation those theories so we do not end up in this same situation again. If your idea requires some sort of magic, chances are, your idea is incorrect.<br/>
 
